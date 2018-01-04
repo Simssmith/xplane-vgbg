@@ -662,7 +662,7 @@
                 <child id="4500"/>
             </children>
             <hierarchy hidden="0" locked="0" name="Bogra"/>
-            <airport always_flatten="0" drive_on_left="1" elevation="18.0" has_atc="1" icao="VGBG" kind="Airport" scenery_id="57426"/>
+            <airport always_flatten="1" drive_on_left="1" elevation="18.0" has_atc="1" icao="VGBG" kind="Airport" scenery_id="57587"/>
             <meta_data>
                 <meta_data_entry pair="city,Bogra"/>
                 <meta_data_entry pair="country,Bangladesh"/>
@@ -32552,15 +32552,15 @@
         </pref>
         <pref name="doc/export_target" value="4"/>
         <pref name="doc/use_feet" value="1"/>
-        <pref name="map/east" value="89.317868"/>
-        <pref name="map/north" value="24.865406"/>
+        <pref name="map/east" value="89.320215"/>
+        <pref name="map/north" value="24.867429"/>
         <pref name="map/obj_density" value="6"/>
         <pref name="map/pavement_alpha" value="1"/>
         <pref name="map/preview_vis" value="1"/>
         <pref name="map/real_lines_vis" value="1"/>
-        <pref name="map/south" value="24.863799"/>
+        <pref name="map/south" value="24.862142"/>
         <pref name="map/vertices_vis" value="0"/>
-        <pref name="map/west" value="89.316267"/>
+        <pref name="map/west" value="89.314946"/>
         <pref name="map/world_map_vis" value="1"/>
         <pref name="map_Airport Beacon_Kind" value="69"/>
         <pref name="map_Boundary_.Markings" value=""/>
@@ -32636,8 +32636,8 @@
         <pref name="window/height" value="997"/>
         <pref name="window/main_split" value="368"/>
         <pref name="window/main_split2" value="1333"/>
-        <pref name="window/prev_split" value="579"/>
-        <pref name="window/prop_split" value="740"/>
+        <pref name="window/prev_split" value="589"/>
+        <pref name="window/prop_split" value="750"/>
         <pref name="window/width" value="1920"/>
         <pref name="window/x_loc" value="-8"/>
         <pref name="window/y_loc" value="-8"/>
